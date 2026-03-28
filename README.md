@@ -3,7 +3,7 @@ Cisco Forecast League 2026 – Phase 1
 # Cisco Forecast League 2026 – Phase 1
 
 ## Overview
-This repository contains my project for Phase 1 of the Cisco Forecast League 2026.  
+This repository contains our team project for Phase 1 of the Cisco Forecast League 2026.  
 We built a hybrid forecasting pipeline that blends statistical methods with machine learning approaches to generate forecasts across 30 products.
 
 ---
